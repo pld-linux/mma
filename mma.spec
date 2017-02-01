@@ -1,7 +1,7 @@
 Summary:	MMA - Musical MIDI Accompaniment
 Name:		mma
 Version:	16.06
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://www.mellowood.ca/mma/%{name}-bin-%{version}.tar.gz
